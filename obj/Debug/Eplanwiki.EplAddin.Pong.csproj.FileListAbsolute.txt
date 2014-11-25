@@ -1,0 +1,5 @@
+e:\Programme\EPLAN\Platform\2.2.5\Bin\Eplanwiki.EplAddin.Pong.dll
+e:\Programme\EPLAN\Platform\2.2.5\Bin\Eplanwiki.EplAddin.Pong.pdb
+e:\dokumente\visual studio 2012\Projects\Eplanwiki.EplAddin.Pong\Eplanwiki.EplAddin.Pong\obj\Debug\Eplanwiki.EplAddin.Pong.dll
+e:\dokumente\visual studio 2012\Projects\Eplanwiki.EplAddin.Pong\Eplanwiki.EplAddin.Pong\obj\Debug\Eplanwiki.EplAddin.Pong.pdb
+e:\dokumente\visual studio 2012\Projects\Eplanwiki.EplAddin.Pong\Eplanwiki.EplAddin.Pong\obj\Debug\Eplanwiki.EplAddin.Pong.csprojResolveAssemblyReference.cache
